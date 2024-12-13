@@ -20,7 +20,7 @@
 .sidebar .new-chat {
   margin-top: 50px;
   display: inline-flex;
-  align-self: center;
+  align-items: center;
   gap: 10px;
   padding: 10px 15px;
   background-color: #e6eaf1;
